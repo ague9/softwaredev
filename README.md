@@ -1,4 +1,4 @@
 # softwaredev
 
-# contributors 
-# Ali Gülen 7371188
+contributors:
+Ali Gülen 7371188
