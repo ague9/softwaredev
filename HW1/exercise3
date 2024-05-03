@@ -1,0 +1,11 @@
+Memory Storage: 
+
+Each class instance is stored in memory as a contiguous block.
+Each instance contains its data members and a pointer/reference to its class's methods (functions).
+For Module and Lecture, memory allocation would include space for their respective data members and a reference to their methods.
+Overriding:
+Overriding refers to the ability of a subclass to provide a specific implementation of a method that is already provided by one of its superclasses.
+In Java, when a method is invoked on an object, the JVM looks for the method in the class of the object's actual runtime type.
+If the method is found in the subclass, the subclass's implementation is used; otherwise, the superclass's implementation is used.
+
+The module object has a name attribute and pointers to the getName() and register() methods. The oose object has numberOfExercises attribute and a pointer to the getName() method.
