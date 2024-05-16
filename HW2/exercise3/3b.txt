@@ -1,0 +1,6 @@
+
+First: student1 + student2: When student1 + student2 is evaluated, the __add__ method of the Student class is invoked. This method creates a new LearningGroup object and adds student1 and student2 to it. So, at this point, we have a LearningGroup object containing student1 and student2.
+
+Second: student1 + student2 + student3: Now, we need to evaluate student1 + student2 first, which we did in the previous step. The result of this operation is a LearningGroup object containing student1 and student2. Then, we add student3 to this LearningGroup object. The __add__ method of the LearningGroup class is invoked this time. It appends student3 to the studentList of the existing LearningGroup object.
+
+final outcome of student1 + student2 + student3 is a LearningGroup object containing all three students (student1, student2, and student3).
