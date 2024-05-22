@@ -11,3 +11,12 @@
 
 - Exercise 2: The class `Student`should not be abstract as there could be students which are neither PhD students nor tutors.
 - Exercise 3: Description should include that overriding works by using the same index if available.
+
+# HW2
+
+| Exercise  | Points    |
+|-----------|-----------|
+| 1         | 4/4       |
+| 2         | 4/4       |
+| 3         | 2/2       |
+| **Total** | 10.0/10.0 |
