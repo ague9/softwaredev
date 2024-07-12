@@ -34,3 +34,15 @@
 - Exercise 1: Requirement 5 is a project requirement, -0.5p.
 - Exercise 2: Should have been provided as a drawing but given the exercise text, your solution is also fine.
 - Exercise 3: a) is missing, -2p.
+
+
+## HW4
+
+| Exercise  | Points    |
+|-----------|-----------|
+| 1         | 3/3       |
+| 2         | 4/4       |
+| 3         | 3/3       |
+| **Total** | 10.0/10.0 |
+
+## Total: 36.5 / 40.0 (91%) -> 5% Bonus
